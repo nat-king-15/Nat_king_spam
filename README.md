@@ -1,5 +1,5 @@
 # SPAMBOTS
-[Gernate bot session from here](https://replit.com/@jattpawan/UstadOp#main.py)
+[Gernate bot session from here](https://replit.com/@nat-king-15/Natking-spam#main.py)
 
 
 
