@@ -61,6 +61,45 @@
         "description": "Bot String Session",
         "value": "",
         "required": false
+        },
+      "STRING11":{
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+        },
+      "STRING12":{
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+        },
+        "STRING13":{
+    "description": "Bot String Session",
+        "value": "",
+        "required": false
+          },
+      "STRING14":{
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+        },
+      "STRING15":{
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+
+      
+      
+       
+
+        
+     
+
+        
+
+       
+      
+
+
       },
         "STRING_10": {
         "description": "Bot String Session",
