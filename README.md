@@ -9,6 +9,11 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nat-king-15/Nat_king_spam)
 
+### Deploy To Railway 💜
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/nat-king-15/Nat_king_spam&envs=API_HASH,API_ID,STRING,STRING2,STRING3,STRING4,STRING5,STRING6,STRING7,STRING8,STRING9,STRING_10,SUDO)
+
+
 THIS IS BEST EVER SPAM BOT IN TELEGRAM 😝😝
 
 ### Support & Updates 🎑
