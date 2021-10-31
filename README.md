@@ -1,5 +1,6 @@
-# SPAMBOTS
-[Gernate bot session from here](https://replit.com/@nat-king-15/Natking-spam#main.py)
+### 🧪 Get SESSION_NAME from below:
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@nat-king-15/Natking-spam#main.py)
 
 
 
