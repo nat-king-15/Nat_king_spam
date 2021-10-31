@@ -1,6 +1,6 @@
 ### 🧪 Get SESSION_NAME from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@nat-king-15/Natking-spam#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@nat-king-15/Natking-spam#main.py) ``Bot Session``
 
 
 
